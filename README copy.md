@@ -1,7 +1,8 @@
-# docker-leantime
+# hub.docker.com/ryanwclark/leantime
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/leantime.svg)](https://hub.docker.com/ryanwclark/leantime)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/leantime.svg)](https://hub.docker.com/ryanwclark/leantime)
+[![Docker Layers](https://images.microbadger.com/badges/imageryanwclark/leantime.svg)](https://microbadger.com/imagesryanwclark/leantime)
 
 ## Introduction
 
