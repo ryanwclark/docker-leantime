@@ -35,7 +35,7 @@ services:
     - ADMIN_LAST_NAME=Administrator
     - COMPANY_NAME=Example Company
 
-    - TIMEZONE=America/Vancouver
+    - TIMEZONE=America/Chicago
 
     networks:
       - proxy-tier
