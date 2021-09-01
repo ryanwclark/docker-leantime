@@ -13,10 +13,6 @@ This will build a container for [Leantime](https://leantime.io/) - An open sourc
 
 [Changelog](CHANGELOG.md)
 
-## Authors
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 
